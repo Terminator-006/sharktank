@@ -19,7 +19,7 @@ export function HomePage() {
           <div className="text-center space-y-8">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[var(--muted)] border border-[var(--border)]">
               <Sparkles className="w-4 h-4 text-[#FF6C00]" />
-              <span className="text-sm">India's Premier Virtual Pitching Platform</span>
+              <span className="text-sm">India&apos;s Premier Virtual Pitching Platform</span>
             </div>
 
             <h1 className="bg-gradient-to-r from-[#FF6C00] to-[#002244] bg-clip-text text-transparent">
